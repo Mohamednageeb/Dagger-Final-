@@ -1,0 +1,7 @@
+FACTS: {domain} is tagged {tag_en} (engine score {score}). Domain authentication: {auth_en}.
+Key evidence on file:
+{reasons_en}
+Official verification: {verification_en}
+ASSESSMENT (template, no AI model used): {assessment_en}
+MISSING: {missing_en}
+NEXT STEPS: {next_en} Priority: {priority}.

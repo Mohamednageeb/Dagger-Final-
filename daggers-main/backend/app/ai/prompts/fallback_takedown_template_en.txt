@@ -1,0 +1,17 @@
+To: abuse@registrar.example
+Subject: Abuse report — suspected fraudulent site on your network ({domain})
+
+Dear Abuse Team,
+
+We are reporting {domain}, registered through {registrar}, for suspected fraud or impersonation based on the evidence below.
+
+Evidence on file:
+{reasons}
+
+DRAFT prepared by Daggers (unofficial prototype). An authorised officer must review and approve it before sending.
+
+We ask that you suspend the domain and preserve registration records for law enforcement.
+
+Regards,
+[authorised officer name and agency]
+reference: {domain}
